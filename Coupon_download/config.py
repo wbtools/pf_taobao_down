@@ -23,8 +23,8 @@ TB_URL = 'https://pub.alimama.com/'
 # GECKODRIVER_PATH = '/home/pfinal/.pyenv/versions/3.7.3/geckodriver'
 GECKODRIVER_PATH = '/home/pfinal/.pyenv/versions/3.7.3/geckodriver'
 DEBUG = False
-USERNAME = '1370288056@qq.com'
-PASSWORD = 'nancheng123@qwe'
+USERNAME = ''
+PASSWORD = ''
 EXCEL_URL = 'https://pub.alimama.com/coupon/qq/export.json?adzoneId=261910834&siteId=42776937'
 
 
